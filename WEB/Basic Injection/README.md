@@ -13,7 +13,7 @@ See if you can leak the whole database. The flag is in there somwhere… https:/
 ' OR '1' = '1
 ```
 
-![Figure]()
+![Figure](https://github.com/Offliners/CTFlearn-writeup/blob/master/WEB/Basic%20Injection/Figure.PNG)
 
 果不其然，flag馬上出來~
 
