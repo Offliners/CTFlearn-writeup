@@ -8,7 +8,7 @@ https://mega.nz/#!OHohCbTa!wbg60PARf4u6E6juuvK9-aDRe_bgEL937VO01EImM7c
 ## Write-up
 透過題目連結，可下載一張圖
 
-![Figure]()
+![Figure](https://github.com/Offliners/CTFlearn-writeup/blob/master/FORENSICS/Forensic%20101/95f6edfb66ef42d774a5a34581f19052.jpg)
 
 首先將圖片轉成文字檔看看，有沒有藏訊息
 
