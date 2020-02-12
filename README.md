@@ -17,6 +17,7 @@ CTFlearn writeup
 |[Wikipedia](MISC/Wikipedia/README.md)|Easy|Solved|
 |[QR code](MISC/QR%20code/README.md)|Easy|Solved|
 |[QR Code v2](MISC/QR%20Code%20v2/README.md)|Easy|Solved|
+|[IP Tracer](MISC/IP%20Tracer/README.md)|Easy|Solved|
 
 
 ## Website
