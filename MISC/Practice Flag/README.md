@@ -1,5 +1,6 @@
 # Practice Flag
 Category: MISC
+
 Try inputting the flag: flag{CTFLearn_is_awesome}
 
 ## Write-up
