@@ -3,6 +3,9 @@ CTFlearn writeup
 
 ## Challenge
 #### WEB
+|Challenge|Degree|Status|
+|-|-|-|
+|[Basic Injection](WEB/Basic%20Injection/README.md)|Easy|Solved|
 #### FORENSICS
 #### PROGRAMMING
 |Challenge|Degree|Status|
