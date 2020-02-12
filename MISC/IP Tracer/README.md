@@ -12,6 +12,10 @@ Can you help Bob find where the IP Address is located. (Type the City name)
 
 網站 : https://www.ipaddress.com/ipv4
 
+也可以使用IP tracer來尋找(download : https://github.com/rajkumardusad/IP-Tracer)
+
+![IP tracer]()
+
 搜尋後發現是在倫敦
 
 即可知flag
