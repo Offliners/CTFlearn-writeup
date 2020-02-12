@@ -15,6 +15,7 @@ CTFlearn writeup
 |[Where Can My Robot Go?](MISC/Where%20Can%20My%20Robot%20Go/README.md)|Easy|Solved|
 |[Reversal of fortune](MISC/Reversal%20of%20fortune/README.md)|Easy|Solved|
 |[Wikipedia](MISC/Wikipedia/README.md)|Easy|Solved|
+|[QR code](MISC/QR%20code/README.md)|Easy|Solved|
 
 
 ## Website
