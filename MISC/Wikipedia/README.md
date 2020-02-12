@@ -10,7 +10,11 @@ Not much to go off here, but it’s all you need: Wikipedia and 128.125.52.138.
 
 就看到
 
+![Figure1](https://github.com/Offliners/CTFlearn-writeup/blob/master/MISC/Wikipedia/Figure1.PNG)
+
 當屬標滑到diff出現Flag的提示，於是點進去看
+
+![Figure2](https://github.com/Offliners/CTFlearn-writeup/blob/master/MISC/Wikipedia/Figure2.PNG)
 
 就可看到Flag了
 
