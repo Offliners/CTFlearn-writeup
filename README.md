@@ -9,7 +9,10 @@ CTFlearn writeup
 ### REVERSE
 ### CRYPTO
 ### MISC
-* [Practice Flag](MISC/Practice%20Flag/README.md)
+|Challenge|Degree|Status|
+|-|-|-|
+|[Practice Flag](MISC/Practice%20Flag/README.md)|Easy|Solved|
+
 
 ## Website
 https://ctflearn.com/
