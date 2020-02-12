@@ -9,7 +9,7 @@ CTFlearn writeup
 ### REVERSE
 ### CRYPTO
 ### MISC
-* [Practice Flag](MISC/PracticeFlag.md)
+* [Practice Flag](MISC/Practice%20Flag/README.md)
 
 ## Website
 https://ctflearn.com/
