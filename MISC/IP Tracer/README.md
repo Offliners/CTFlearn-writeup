@@ -14,7 +14,7 @@ Can you help Bob find where the IP Address is located. (Type the City name)
 
 也可以使用IP tracer來尋找(download : https://github.com/rajkumardusad/IP-Tracer)
 
-![IP tracer]()
+![IP tracer](https://github.com/Offliners/CTFlearn-writeup/blob/master/MISC/IP%20Tracer/IPtracer.PNG)
 
 搜尋後發現是在倫敦
 
