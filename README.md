@@ -1,5 +1,5 @@
 # CTFlearn writeup
-CTFlearn writeup
+My writeup for CTFlearn
 
 ## Challenge
 #### WEB
@@ -31,7 +31,7 @@ CTFlearn writeup
 
 
 ## Website
-https://ctflearn.com/
+CTFlearn : https://ctflearn.com/
 
 ## Environment
 VM workstation player : https://my.vmware.com/en/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/15_0
