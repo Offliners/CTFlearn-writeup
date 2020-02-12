@@ -1,5 +1,5 @@
 # Practice Flag
-Category: MISC
+Category: `MISC`
 
 Try inputting the flag: flag{CTFLearn_is_awesome}
 
