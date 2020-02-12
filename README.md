@@ -7,6 +7,9 @@ CTFlearn writeup
 |-|-|-|
 |[Basic Injection](WEB/Basic%20Injection/README.md)|Easy|Solved|
 #### FORENSICS
+|Challenge|Degree|Status|
+|-|-|-|
+|[Forensics 101](FORENSICS/Forensics%20101/README.md)|Easy|Solved|
 #### PROGRAMMING
 |Challenge|Degree|Status|
 |-|-|-|
