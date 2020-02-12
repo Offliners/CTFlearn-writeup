@@ -5,6 +5,9 @@ CTFlearn writeup
 #### WEB
 #### FORENSICS
 #### PROGRAMMING
+|Challenge|Degree|Status|
+|-|-|-|
+|[Simple Programming](PROGRAMMING/Simple%20Programming/README.md)|Easy|Solved|
 #### BINARY
 #### REVERSE
 #### CRYPTO
