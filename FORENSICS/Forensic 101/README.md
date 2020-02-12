@@ -20,4 +20,6 @@ strings pic.jpg
 ```
 再去尋找
 
+果然flag就藏在其中
+
 Flag : `flag{wow!_data_is_cool}`
