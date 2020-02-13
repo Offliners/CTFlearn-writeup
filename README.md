@@ -24,6 +24,9 @@ My writeup for CTFlearn
 |[Lazy Game Challenge](BINARY/Lazy%20Game%20Challenge/README.md)|Easy|Solved|
 #### REVERSE
 #### CRYPTO
+|Challenge|Degree|Status|
+|-|-|-|
+|[Character Encoding](CRYPTO/Character%20Encoding/README.md)|Easy|Solved|
 #### MISC
 |Challenge|Degree|Status|
 |-|-|-|
