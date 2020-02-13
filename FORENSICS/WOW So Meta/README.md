@@ -14,8 +14,8 @@ https://mega.nz/#!ifA2QAwQ!WF-S-MtWHugj8lx1QanGG7V91R-S1ng7dDRSV25iFbk
 
 看一下圖片內容，赫然發現...
 
-![Figure2]()
+![Figure2](https://github.com/Offliners/CTFlearn-writeup/blob/master/FORENSICS/WOW%20So%20Meta/Figure2.PNG)
 
 flag就在這裡!
 
-Flag : `flag{flag}`
+Flag : `flag{EEe_x_I_FFf}`
