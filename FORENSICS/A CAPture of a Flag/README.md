@@ -19,11 +19,11 @@ sudo apt install wireshark-qt
 
 載好後開啟Wireshark，再把剛剛下載的檔案丟入，會看到 :
 
-![Figure1]()
+![Figure1](https://github.com/Offliners/CTFlearn-writeup/blob/master/FORENSICS/A%20CAPture%20of%20a%20Flag/Figure1.PNG)
 
 載來看一下他的http協定
 
-![Figure2]()
+![Figure2](https://github.com/Offliners/CTFlearn-writeup/blob/master/FORENSICS/A%20CAPture%20of%20a%20Flag/Figure2.PNG)
 
 有個神祕的msg訊息，拿去base64解密後就出現flag~
 
