@@ -19,6 +19,9 @@ My writeup for CTFlearn
 |-|-|-|
 |[Simple Programming](PROGRAMMING/Simple%20Programming/README.md)|Easy|Solved|
 #### BINARY
+|Challenge|Degree|Status|
+|-|-|-|
+|[Lazy Game Challenge](BINARY/Lazy%20Game%20Challenge/README.md)|Easy|Solved|
 #### REVERSE
 #### CRYPTO
 #### MISC
