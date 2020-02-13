@@ -26,4 +26,6 @@ To get flag, pwn the server at: nc thekidofarcrania.com 10001
 
 ![Figure3](https://github.com/Offliners/CTFlearn-writeup/blob/master/BINARY/Lazy%20Game%20Challenge/Figure3.PNG)
 
+這裡有題目的原始碼 [Source code](source.py)
+
 Flag : `CTFlearn{d9029a08c55b936cbc9a30_i_wish_real_betting_games_were_like_this!}`
