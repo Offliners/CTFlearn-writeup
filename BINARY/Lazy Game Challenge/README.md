@@ -22,8 +22,8 @@ To get flag, pwn the server at: nc thekidofarcrania.com 10001
 
 這樣輸了的話就會`原有的錢 - 賭的錢`
 
-負負得正，就得到了flag~
+負負得正，然後一直出大於10的數字穩輸(因為電腦只會出1~10而已)，就得到了flag~
 
 ![Figure3](https://github.com/Offliners/CTFlearn-writeup/blob/master/BINARY/Lazy%20Game%20Challenge/Figure3.PNG)
 
-Flag : `flag{flag}`
+Flag : `CTFlearn{d9029a08c55b936cbc9a30_i_wish_real_betting_games_were_like_this!}`
