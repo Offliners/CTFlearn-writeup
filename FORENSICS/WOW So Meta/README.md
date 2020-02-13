@@ -8,7 +8,7 @@ https://mega.nz/#!ifA2QAwQ!WF-S-MtWHugj8lx1QanGG7V91R-S1ng7dDRSV25iFbk
 ## Write-up
 透過連結下載了一張jpg的圖片，
 
-![Figure1]()
+![Figure1](https://github.com/Offliners/CTFlearn-writeup/blob/master/FORENSICS/WOW%20So%20Meta/3UWLBAUCb9Z2.jpg)
 
 感覺沒什麼資訊隱藏在圖片中，
 
