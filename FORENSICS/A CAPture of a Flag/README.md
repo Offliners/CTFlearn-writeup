@@ -17,4 +17,14 @@ https://mega.nz/#!3WhAWKwR!1T9cw2srN2CeOQWeuCm0ZVXgwk-E2v-TrPsZ4HUQ_f4
 sudo apt install wireshark-qt
 ```
 
-Flag : `flag{flag}`
+載好後開啟Wireshark，再把剛剛下載的檔案丟入，會看到 :
+
+![Figure1]()
+
+載來看一下他的http協定
+
+![Figure2]()
+
+有個神祕的msg訊息，拿去base64解密後就出現flag~
+
+Flag : `flag{AFlagInPCAP}`
