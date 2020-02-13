@@ -21,7 +21,7 @@ sudo apt install wireshark-qt
 
 ![Figure1](https://github.com/Offliners/CTFlearn-writeup/blob/master/FORENSICS/A%20CAPture%20of%20a%20Flag/Figure1.PNG)
 
-載來看一下他的http協定
+再來看一下他的http協定
 
 ![Figure2](https://github.com/Offliners/CTFlearn-writeup/blob/master/FORENSICS/A%20CAPture%20of%20a%20Flag/Figure2.PNG)
 
