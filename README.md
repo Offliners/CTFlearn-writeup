@@ -11,6 +11,7 @@ My writeup for CTFlearn
 |-|-|-|
 |[Forensic 101](FORENSICS/Forensic%20101/README.md)|Easy|Solved|
 |[Taking LS](FORENSICS/Taking%20LS/README.md)|Easy|Solved|
+|[Binwalk](FORENSICS/Binwalk/README.md)|Easy|Solved|
 #### PROGRAMMING
 |Challenge|Degree|Status|
 |-|-|-|
