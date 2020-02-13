@@ -13,6 +13,7 @@ My writeup for CTFlearn
 |[Taking LS](FORENSICS/Taking%20LS/README.md)|Easy|Solved|
 |[Binwalk](FORENSICS/Binwalk/README.md)|Easy|Solved|
 |[WOW.... So Meta](FORENSICS/WOW%20So%20Meta/README.md)|Easy|Solved|
+|[A CAPture of a Flag](FORENSICS/A%20CAPture%20of%20a%20Flag/README.md)|Easy|Solved|
 #### PROGRAMMING
 |Challenge|Degree|Status|
 |-|-|-|
