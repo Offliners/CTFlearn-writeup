@@ -34,6 +34,17 @@ DECIMAL       HEXADECIMAL     DESCRIPTION
 156776        0x26468         Unix path: /www.w3.org/1999/02/22-rdf-syntax-ns#">
 ```
 
+上面可以看到裡面藏了兩張圖片，其中一張可能藏有我們需要的flag
+
+所以在終端機輸入 :
+```
+binwalk -D 'png image:png' PurpleThing.jpeg
+```
+
+把png檔案給解出來
+
+果然第二張圖片就寫著flag~
 
 
-Flag : `flag{flag}`
+
+Flag : `ABCTF{B1nw4lk_is_us3ful}`
