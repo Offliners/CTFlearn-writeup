@@ -28,6 +28,7 @@ My writeup for CTFlearn
 |-|-|-|
 |[Character Encoding](CRYPTO/Character%20Encoding/README.md)|Easy|Solved|
 |[Hextroadinary](CRYPTO/Hextroadinary/README.md)|Easy|Solved|
+|[Base 2 2 the 6](CRYPTO/Base%202%202%20the%206/README.md)|Easy|Solved|
 #### MISC
 |Challenge|Degree|Status|
 |-|-|-|
